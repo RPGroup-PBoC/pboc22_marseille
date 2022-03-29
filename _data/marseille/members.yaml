@@ -1,0 +1,19 @@
+- name: Rob Phillips
+  title: Instructor
+  image: rob.jpg
+  email: phillips
+
+- name: Rebecca Rousseau
+  title: TA
+  image: rebecca.jpg
+  email: rroussea
+
+- name: Manuel Razo-Mejia
+  title: TA
+  image: manuel.jpg
+  email: mrazomej
+
+- name: Kimberly Berry
+  title: Admin
+  image: kimberly.jpg
+  email: kberry
