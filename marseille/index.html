@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Home
-loc: mar
+tag: mar
 ---
 {% for tag in site.tags %}
-  {% if tag[0] == page.loc %}
+  {% if tag[0] == page.tag %}
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
     {% assign page = posts.first %}
