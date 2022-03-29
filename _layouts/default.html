@@ -28,7 +28,7 @@
         <div class="posts">
           <ul class="posts-list">
             {% for tag in site.tags %}
-              {% if tag[0] == page.year %}
+              {% if tag[0] == page.tag %}
                 {% for post in tag[1] %}
                   <li class="post-link">
                     <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
