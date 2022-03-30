@@ -3,20 +3,20 @@ layout: post
 title: People
 cover: phage.jpg
 categories: posts
-permalink: heidelberg/people
-tag: hei
+permalink: people
+tag: mar
 year: 2022
 ---
 
-All emails are given as `@ name [dot] caltech [dot] edu` unless otherwise specified.
+
 
 ## Instructors and TAs
-{% for person in site.data.heidelberg.members %}
+{% for person in site.data.members %}
 <div id="person-im">
 <figure>
 
 {% if person.link != none %}
-<b> <a href="{{person.link}}">{{ person.name }}</a></b><br/>
+<b> <a href="{{person.link}}" target=" blank">{{ person.name }}</a></b><br/>
 {% else %}
 <b> {{person.name}} </b>
 {% endif %}
@@ -24,7 +24,7 @@ All emails are given as `@ name [dot] caltech [dot] edu` unless otherwise specif
 <b>{{ person.title }} </b>
 <figcaption>
 {% if person.name == 'Rob Phillips' %}
-<span style="font-size: 10pt;"> @ {{ person.email }} [at] pboc [dot] caltech [dot] edu </span>
+<span style="font-size: 10pt;"> @ {{ person.email }} </span>
 {% endif %}
 {% if person.name != 'Rob Phillips' %}
 <span style="font-size: 10pt;"> @ {{ person.email }} </span><br />
@@ -40,11 +40,10 @@ All emails are given as `@ name [dot] caltech [dot] edu` unless otherwise specif
 
 ## Faculty Speakers, 1pm each day
 
-{% for person in site.data.heidelberg.speakers %}
+{% for person in site.data.speakers %}
 <div id="person-im">
 <figure>
-<b><a href="{{person.link}}">{{person.name}}</a></b><br/>
-<b><a href="{{person.zoom}}">Zoom link</a></b><br/>
+<b><a href="{{person.link}}" target=" blank">{{person.name}}</a></b><br/>
 <span style="font-size: 10pt;">  {{ person.date}} </span>
 <img src="{{site.baseurl}}/images/people/{{person.image}}"><br/>
 </figure>

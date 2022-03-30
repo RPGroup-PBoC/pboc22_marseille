@@ -3,7 +3,7 @@ layout: post
 title: About
 cover: about_blank.png
 categories: posts
-permalink: marseille/about
+permalink: about
 tag: mar
 year: 2022
 ---

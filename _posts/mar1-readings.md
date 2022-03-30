@@ -3,19 +3,18 @@ layout: post
 title: Readings
 cover: readings.jpg
 categories: posts
-permalink: heidelberg/readings
-tag: hei
+permalink: readings
+tag: mar
 year: 2022
 ---
-## Reading assignments
+Here you will find papers and other resources mentioned in the class. They will be added as the course progresses.
 
 ## Slides (Password protected)
 
+
 ## In-Class Readings
 
-Readings mentioned specifically in class will be listed here as the course progresses.
-
-{% assign readings = site.data.heidelberg.papers %}
+{% assign readings = site.data.papers %}
 
 {% for week in readings %}
 <span style="display: block; font-weight: 500"> <b>{{ week[0] }}</b></span>
