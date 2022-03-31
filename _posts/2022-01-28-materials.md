@@ -20,6 +20,8 @@ Here you will find papers, vignettes, and other resources mentioned in the class
     <th><b>Topic</b></th>
 </tr>
 {% for day in site.data.vignettes %}
+{% if day.exurl %}
+{% else %}
 <tr>
     <td>{{day.date}}  </td>
     <td>{{day.topic1}}
@@ -27,6 +29,9 @@ Here you will find papers, vignettes, and other resources mentioned in the class
     {% for v in day.videos1 %}
     {% if v.name %}
     <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}" target="_blank">{{v.title}}</a><br/>
+    {% else %} 
+    <a href="{{v.url}}" target="_blank">{{v.title}}</a><br/>
+    {{v.description}}<br/>
     {%endif %}
     {%endfor%}
     {%endif %}
@@ -35,6 +40,9 @@ Here you will find papers, vignettes, and other resources mentioned in the class
     {% for v in day.videos2 %}
     {% if v.name %}
     <a href="http://rpdata.caltech.edu/courses/aph161/2021/videos/{{v.name}}" target="_blank">{{v.titlea}}</a><br/>
+    {% else %}
+    <a href="{{v.urla}}" target="_blank">{{v.titlea}}</a><br/>
+    {{v.descriptiona}}<br/>
     {%endif %}
     {%endfor%}
     {%endif %}
@@ -55,6 +63,7 @@ Here you will find papers, vignettes, and other resources mentioned in the class
   <td> {{'-'}} </td>
   {% endif %} -->
 </tr>
+{% endif %}
 {% endfor %}
 </table>
 
