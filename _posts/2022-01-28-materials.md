@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Readings
+title: Materials
 cover: readings.jpg
 categories: posts
-permalink: readings
+permalink: materials
 tag: mar
 year: 2022
 ---
-Here you will find papers and other resources mentioned in the class. They will be added as the course progresses.
+Here you will find papers, vignettes, and other resources mentioned in the class. They will be added as the course progresses.
 
 ## Slides (Password protected)
 
