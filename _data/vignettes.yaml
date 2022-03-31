@@ -34,6 +34,18 @@
     - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
       title: A feeling for the organism (13:10)
       description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
+#    - url: https://www.youtube.com/watch?v=-dvhttEc_rA
+#      title: I wonder... (37:04)
+#      description: This vignette focuses on the importance of asking questions in science as much as in finding answers. One route to those questions is by tapping into our sense of wonder.
+#    - url: https://www.youtube.com/watch?v=jUDTMksZxtI
+#      title: Order of magnitude toolkit (11:39)
+#      description: This vignette provides some of the key tools used when doing order of magnitude thinking. 
+#    - url: https://www.youtube.com/watch?v=KJjbhv_Zb-0
+#      title: Biological numeracy exam (13:00)
+#      description: This video is a "biological numeracy exam" with roughly 15 multiple choice questions that you will self grade in the following vignette.
+#    - url: https://www.youtube.com/watch?v=rP4bKX3ks5E
+#      title: Biological numeracy exam (answers) (23:33)
+#      description: This vignette gives the answers to the biological numeracy exam and showcases the order-of-magnitude-thinking spirit that we consider a critical pillar of physical biology.
 
 - day:
   date: > 
@@ -43,6 +55,18 @@
     <h3>2. Scales and Scaling in Physical Biology</h3>
     </header> 
   videos1:
+    # - url: https://www.youtube.com/watch?v=DeievEzAlKU
+    #   title: Semantics on scale (18:13)
+    #   description: This vignette describes two ways in which we will use the word scale. First, in the spirit of "what sets the scale of X?" and second, how some quantity of interest, such as the diffusion time, scales with some other quantity such as the length over which that scaling occurs.
+    # - url: https://www.youtube.com/watch?v=MlxadiuIRgk
+    #   title: Scaling of diffusion time (16:47)
+    #   description: This vignette develops one of the most important rules of thumb in all of science - how we estimate the time that diffusive processes will take.
+    # - url: https://www.youtube.com/watch?v=lltMsmF0yGo&t=1s
+    #   title: Nucleolar scaling (23:45)
+    #   description: This vignette starts with an introduction to scaling relations between organelle size and cell size and then turns to the study of how the size of the nucleolus scales with nuclear size in the developing C. elegans embryo.
+    # - url: https://www.youtube.com/watch?v=OMzGJWAyBqI
+    #   title: Mitochondrial surface volume (18:58)
+    #   description: This vignette explores the idea that when cells get too large, the plasma membrane is no longer large enough to contain enough ATP synthases to provide enouch ATP for the cellular interior.
 
 - day:
   date: > 
@@ -52,12 +76,65 @@
     <h3>3. Physics of Animal Migration, Dispersal, and Herding</h3>
     </header> 
   videos1:
+    # - url: https://www.youtube.com/watch?v=4reTaFAFQv0
+    #   title: Bar tailed godwit migration (18:50)
+    #   description: This vignette talks about the physical challenges faced by bar tailed godwit birds in their 10,000 km nonstop migratory journey between Alaska and New Zealand.
+    # - url: https://www.youtube.com/watch?v=jwr-yvNK0wY
+    #   title: Frogs sao tome puzzle (18:50)
+    #   description: This vignette introduces one of the fun challenges of island biogeography - how do amphibians end up on oceanic islands.
+    # - url: https://www.youtube.com/watch?v=15EVWhAO0ok
+    #   title: Ocean currents dispersal (13:43)
+    #   description: This vignette explores the hypothesis that amphibians landed on the islands in the Gulf of Guinea by being transported by ocean currents.
+    # - url: https://www.youtube.com/watch?v=-9FuvlJKZWw
+    #   title: Physics of frogs in saltwater (14:08)
+    #   description: This vignette describes the physics of water transport that frogs suffer when placed in saltwater.
+    # - url: https://www.youtube.com/watch?v=gJxX0yW-q6Y
+    #   title: Interlude on entropy (21:58)
+    #   description: Here we make our first quantitative acquaintance with the all important concept of entropy and the corresponding variational statement of equilibrium.
+    # - url: https://www.youtube.com/watch?v=uA8Xhj3cSwI
+    #   title: Osmotic pressure (14:11)
+    #   description: When there is a concentration difference across a membrane such as a frog's skin, water will flow as a result of osmotic pressure. Here we use simple free energy arguments to explain osmotic pressure.
+    # - url: https://www.youtube.com/watch?v=ThHDJ_sOHxU
+    #   title: Linear transport laws (20:35)
+    #   description: This vignette discusses one of the most powerful tools in the physicochemical arsenal for working out the dynamics of how systems approach the maximum entropy (equilibrium) state. Here our focus is on the law of water transport due to osmotic pressure, a key player in the response of frogs to being in salt water.
+    # - url: https://www.youtube.com/watch?v=1RHIiKgDwxo
+    #   title: Frog osmotic shock (15:36)
+    #   description: This vignette writes the differential equation for water flow out of an osmotically shocked frog and uses that to estimate the time for the frog to dry out.
 
 - day:
   date: > 
    Thur. May 5
   topic1: > 
+    <header>
+    <h3>5. Shape, Space and Pattern in Biology</h3>
+    </header> 
   videos1:
+  #   - url: https://www.youtube.com/watch?v=URQM_DyIo3M
+  #     title: Collective animal motions (8:31)
+  #     description: This vignette observes that animals of all kinds participate in organized collective motions, providing a "many-body" challenge to the theory of active matter.
+  #   - url: https://www.youtube.com/watch?v=to49YtDGQZo
+  #     title: Origins of field theory (27:11)
+  #     description: This vignette introduces the idea of field theory, with roots that date back to the early days of mechanics. After a historical introduction, we examine the nature of field theories of matter.
+  #   - url: https://www.youtube.com/watch?v=Goxld0ulV3w
+  #     title: Toner Tu theory intro (16:17)
+  #     description: This brief vignette shows how Toner and Tu developed a field theoretic description of animal motions culminating in the famed Toner Tu partial differential equations.
+  # topic2: >
+  #    <header>
+  #    <h3>4. Diffusive Dynamics</h3>
+  #    </header>
+  # videos2: 
+  #   - urla: https://www.youtube.com/watch?v=J4f9lGdDE8w
+  #     titlea: Diffusion - introduction (10:42)
+  #     descriptiona: This vignette introduces diffusion as molecular and cell biology's dynamical null hypothesis. As we will see in subsequent vignettes, like many of the key ideas of physics, there are many different ways to view this subject.
+  #   - urla: https://www.youtube.com/watch?v=5dGGM0v1U9o
+  #     titlea: Diffusion - coin flips (19:15)
+  #     descriptiona: One view of diffusion is as the dynamics that result when independent agents "choose" what they are going to do next by flipping coins. While this observation seems contrived and trivial, it is actually very deep.
+  #   - urla: https://www.youtube.com/watch?v=1olekmCT0i4
+  #     titlea: Diffusion - continuum theory (22:11)
+  #     descriptiona: As with Toner Tu theory, we can write a field theory for diffusion that culminates in the famed partial differential equation known as the diffusion equation. This vignette describes that theory.
+  #   - urla: https://www.youtube.com/watch?v=ahoqCKxRZU0
+  #     titlea: Diffusion - master equation (17:46)
+  #     descriptiona: Another very powerful paradigm we will use over and over is that of probabilistic reasoning. Dynamics of probability distributions can be written in the language of master equations and this vignette explains that approach.
 
 - day:
   date: > 
@@ -67,4 +144,22 @@
     <h3>5. Shape, Space and Pattern in Biology</h3>
     </header> 
   videos1:
+#    - url: https://www.youtube.com/watch?v=b90lCVjJ4jY
+#      title: I wonder - pattern formation (17:22)
+#      description: This vignette introduces the idea of biological pattern as a prelude to the mathematical exploration of these phenomena using the twin concepts of positional information and the Turing instability.
+#    - url: https://youtu.be/wr1UTL7MixA
+#      title: Continuum theory protocol (20:05)
+#      description: This vignette describes how continuum field theories can be used in a myriad of different settings including for pattern formation.
+#    - url: https://youtu.be/k3lRI0M7mV8
+##      title: Paradigms for patterning (11:55)
+#      description: This vignette describes two distinct classes of models for thinking about the emergence of patterns - the concept of positional information and the self-organization properties of Turing patterns.
+#    - url: https://youtu.be/NpnUSjHx2mM
+#      title: On positional information (12:22)
+#      description: This vignette gives a more detailed introduction to the Wolpert idea of positional information.
+#    - url: https://youtu.be/zTJJm7RNzhg
+#      title: Positional information - reaction-diffusion equation (19:50)
+#      description: This vignette shows how to use the continuum theory protocol to derive a beautiful generalization of the diffusion equation that accounts for protein degradation as well.
+#    - url: https://youtu.be/yBasfKv88aY
+#      title: Positional inforamtion - the French flag model (11:12)
+#      description: This vignette is a very concrete case study of reaction-diffusion equations as they pertain to anterior-posterior patterning in the fly. Note that part of the fun of taking this model seriously is that we see that it falls quantitatively short of accounting for the experimental data, raising the need to consider further refinements.
 
