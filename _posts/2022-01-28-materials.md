@@ -67,7 +67,7 @@ Here you will find papers, vignettes, and other resources mentioned in the class
 {% endfor %}
 </table>
 
-## Overflow Vignettes
+## Additional Vignettes
 
 {% for extra in site.data.vignettes %}
 {% if extra.exurl %}
