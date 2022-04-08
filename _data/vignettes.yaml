@@ -28,7 +28,7 @@
    Mon. May 2
   topic1: >    
     <header>
-    <h3>1. Perspective, Vision, and Preliminaries</h3>
+    <h3>1. A feeling for the organism</h3>
     </header>
   videos1:
     - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
@@ -52,7 +52,7 @@
    Tue. May 3
   topic1: >
     <header>
-    <h3>2. Scales and Scaling in Physical Biology</h3>
+    <h3>2. All is flux: dynamics across scales in biology</h3>
     </header> 
   videos1:
     # - url: https://www.youtube.com/watch?v=DeievEzAlKU
@@ -73,7 +73,7 @@
    Wed. May 4
   topic1: >
     <header>
-    <h3>3. Physics of Animal Migration, Dispersal, and Herding</h3>
+    <h3>3. Probability as the language of biology: from coin flips to diffusion and embryogenesis</h3>
     </header> 
   videos1:
     # - url: https://www.youtube.com/watch?v=4reTaFAFQv0
@@ -106,7 +106,7 @@
    Thur. May 5
   topic1: > 
     <header>
-    <h3>5. Shape, Space and Pattern in Biology</h3>
+    <h3>4. The secret of life as defiance</h3>
     </header> 
   videos1:
   #   - url: https://www.youtube.com/watch?v=URQM_DyIo3M
@@ -141,7 +141,7 @@
    Fri. May 6
   topic1: >
     <header>
-    <h3>5. Shape, Space and Pattern in Biology</h3>
+    <h3>5. Beyond the atoms: coarse-grained views of living matter</h3>
     </header> 
   videos1:
 #    - url: https://www.youtube.com/watch?v=b90lCVjJ4jY
