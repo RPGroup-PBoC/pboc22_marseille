@@ -77,7 +77,11 @@ Here you will find papers and vignettes mentioned in the class. These sections w
 {% assign dir = "http://rpdata.caltech.edu/courses/course_papers/protected/" %}
 {% if p.link != None %}
 {% assign dir = p.link %}
-<a href={{p.link}} target="_blank">{{p.title}}</a><br/> by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
+{% if p.journal != None %}
+<a href="{{p.link}}" target="_blank">{{p.title}}</a><br/> by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
+{% else %}
+<a href="{{p.link}}" target="_blank">{{p.title}}</a><br/> by {{ p.author }} {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
+{% endif %}
 {% elsif p.PDF != None %}
 [{{ p.title }}]({{ dir }}{{ p.PDF }}) by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
 {% else %}
