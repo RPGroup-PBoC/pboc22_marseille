@@ -11,7 +11,7 @@ Here you will find papers, vignettes, and other resources mentioned in the class
 
 ## Vignettes
 
-<a href="https://www.youtube.com/channel/UCnYEe45w6F4G3AEYCyNHMWg/videos" target="_blank">{{"PBoC YouTube Channel"}}</a>><br/> - This series of vignettes expands on topics we will cover in the course.  Specific suggestions for vignettes to watch will be given during the course.
+<a href="https://www.youtube.com/channel/UCnYEe45w6F4G3AEYCyNHMWg/videos" target="_blank">{{"PBoC Vignette Library"}}</a> - This series of vignettes expands on topics we will cover in the course.  Specific suggestions for vignettes to watch will be given during the course.
 
 <table>
 <tr>
