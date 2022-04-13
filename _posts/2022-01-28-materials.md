@@ -80,8 +80,6 @@ Here you will find papers and vignettes mentioned in the class. These sections w
 [{{ p.title }}]({{ p.link }}) by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
 {% elsif p.PDF != None %}
 [{{ p.title }}]({{ dir }}{{ p.PDF }}) by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
-{% elsif p.journal == None %}
-[{{ p.title }}]({{ p.link }}) by {{ p.author }}{{ p.description }}
 {% else %}
 {{p.title}} by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
 {% endif %}
