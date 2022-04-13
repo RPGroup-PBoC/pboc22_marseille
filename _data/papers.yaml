@@ -1,7 +1,8 @@
 # Reading assignments:
-# - title: "Physical Biology of the Cell, 3rd edition. Chapter 2"
-#   author: "Phillips, et al."
-#   link: "rpdata.caltech.edu/courses/course_papers/protected/PBoC3_Chapter_2.pdf"
+ - title: "Cell Biology by the Numbers"
+   author: "Ron Milo and Rob Phillips"
+   link: "http://book.bionumbers.org/"
+   description: "this book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena.""
 
 # Day 1 (May 2nd):
 #   - title: "The biomass distribution on Earth"
