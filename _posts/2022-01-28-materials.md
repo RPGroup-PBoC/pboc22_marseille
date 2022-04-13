@@ -7,7 +7,7 @@ permalink: materials
 tag: mar
 year: 2022
 ---
-Here you will find papers, vignettes, and other resources mentioned in the class. They will be added as the course progresses.
+Here you will find papers and vignettes mentioned in the class. These sections will be updated as the course progresses.
 
 ## Vignettes
 
