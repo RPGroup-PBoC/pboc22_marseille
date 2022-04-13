@@ -78,9 +78,9 @@ Here you will find papers and vignettes mentioned in the class. These sections w
 {% if p.link != None %}
 {% assign dir = p.link %}
 {% if p.journal != None %}
-<a href="{{p.link}}" target="_blank">{{p.title}}</a><br/> by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
+<a href="{{p.link}}" target="_blank">{{p.title}}</a> by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
 {% else %}
-<a href="{{p.link}}" target="_blank">{{p.title}}</a><br/> by {{ p.author }} {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
+<a href="{{p.link}}" target="_blank">{{p.title}}</a> by {{ p.author }}{{ p.volume }}{{ p.number }}{{ p.year }}. {{ p.description }}
 {% endif %}
 {% elsif p.PDF != None %}
 [{{ p.title }}]({{ dir }}{{ p.PDF }}) by {{ p.author }} *{{ p.journal }}* {{ p.volume }}{{ p.number }} {{ p.year }}. {{ p.description }}
