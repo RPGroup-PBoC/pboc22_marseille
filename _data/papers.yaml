@@ -22,8 +22,21 @@
    link:  "https://trace.ncbi.nlm.nih.gov/Traces/sra/"
 
  - title: "Human Impacts Database"
+   author: ""
    description: "From water usage to land usage, the Human Impacts Database contains numbers that quantify the impacts of human presence on Earth."
    link: "http://www.anthroponumbers.org/catalog/"
+
+ - title: "Polymerases and the replisome: machines within machines"
+   author: "Tania A Baker and Stephen P Bell"
+   journal: "Cell Review"
+   year: "1998"
+   link: "https://www.cell.com/cell/fulltext/S0092-8674(00)80923-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS009286740080923X%3Fshowall%3Dtrue"
+
+ - title: "Molecular 'vitalism'"
+   author: "Marc Kirschner, et al."
+   journal: "Cell Review"
+   year: "2000"
+   link: "https://www.cell.com/cell/fulltext/S0092-8674(00)81685-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867400816852%3Fshowall%3Dtrue"
 
  - title: "Fundamental limits on the rate of bacterial growth and their influence on proteomic composition"
    author: "Nathan Belliveau, Griffin Chure, et al."
