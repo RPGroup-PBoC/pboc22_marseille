@@ -44,6 +44,12 @@
    year: "2021"
    PDF: "http://rpdata.caltech.edu/publications/Belliveau_Chure2021.pdf"
 
+ - title: "The quantitative and condition-dependent *Escherichia coli* proteome"
+   author: "Alexander Schmidt, et al."
+   journal: "Nature Biotechnology"
+   year: 2016
+   link: "https://www.nature.com/articles/nbt.3418"
+
  - title: "Torque-dependent remodeling of the bacterial flagellar motor"
    author: "Navish Wadhwa, et al. "
    journal: "PNAS"

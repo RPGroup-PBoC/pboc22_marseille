@@ -31,9 +31,10 @@
     <h3>1. A feeling for the organism</h3>
     </header>
   videos1:
-#    - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
-#      title: A feeling for the organism (13:10)
-#      description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
+    - url: https://www.youtube.com/watch?v=z9l-sgUhC_s
+      title: A feeling for the organism (13:10)
+      description: This vignette introduces the goal of the course, nothing less than to develop a quantitative feeling for the nature of the living world.
+      
 #    - url: https://www.youtube.com/watch?v=-dvhttEc_rA
 #      title: I wonder... (37:04)
 #      description: This vignette focuses on the importance of asking questions in science as much as in finding answers. One route to those questions is by tapping into our sense of wonder.
