@@ -21,6 +21,10 @@
    description: "Statistics on the raw sequence submission in the Sequence Read Archive hosted on the National Center for Biotechnology Information website."
    link:  "https://trace.ncbi.nlm.nih.gov/Traces/sra/"
 
+ - title: "Human Impacts Database"
+   description: "From water usage to land usage, the Human Impacts Database contains numbers that quantify the impacts of human presence on Earth."
+   link: "http://www.anthroponumbers.org/catalog/"
+
  - title: "Fundamental limits on the rate of bacterial growth and their influence on proteomic composition"
    author: "Nathan Belliveau, Griffin Chure, et al."
    journal: "Cell Systems"
