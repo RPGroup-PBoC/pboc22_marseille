@@ -16,6 +16,11 @@
    year: "2021"
    link: "https://www.science.org/doi/10.1126/science.abe7389"
 
+ - title: "NIH Sequence Read Archive (SRA) Statistics"
+   author: "National Center for Biotechnology Information, National Institutes of Health"
+   description: "Statistics on the raw sequence submission in the Sequence Read Archive hosted on the National Center for Biotechnology Information website."
+   link:  "https://trace.ncbi.nlm.nih.gov/Traces/sra/"
+
  - title: "Fundamental limits on the rate of bacterial growth and their influence on proteomic composition"
    author: "Nathan Belliveau, Griffin Chure, et al."
    journal: "Cell Systems"
