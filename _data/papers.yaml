@@ -62,6 +62,12 @@
    journal: "Science"
    year: "1972"
    link: "https://www.science.org/doi/10.1126/science.177.4047.393"
+
+ - title: "One at a time, live tracking of NGF axonal transport using quantum dots"
+   author: "Bianxiao Cui, et al."
+   journal: "PNAS"
+   year: "2007"
+   link: "https://www.pnas.org/doi/10.1073/pnas.0706192104"
     
 # Day 3 (May 4th):
 #   - title: "Kinesin Walks Hand-Over-Hand"
