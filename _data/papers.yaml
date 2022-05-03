@@ -56,12 +56,12 @@
    year: "2019"
    link: "http://rpdata.caltech.edu/publications/Wadhwa2019a.pdf"
 
-# Day 2 (May 3rd):
-#   - title: "An application of the Poisson distribution"
-#     author: "R. D. Clarke"
-#     journal: "Journal of the Institute of Actuaries"
-#     year: "1946"
-#     link: "https://www.cambridge.org/core/journals/journal-of-the-institute-of-actuaries/article/an-application-of-the-poisson-distribution/F75111847FDA534103BD4941BD96A78E"
+Day 2 (May 3rd):
+ - title: "More is different: broken symmetry and the nature of the heirarchical structure of science"
+   author: "P W Anderson"
+   journal: "Science"
+   year: "1972"
+   link: "https://www.science.org/doi/10.1126/science.177.4047.393"
     
 # Day 3 (May 4th):
 #   - title: "Kinesin Walks Hand-Over-Hand"
