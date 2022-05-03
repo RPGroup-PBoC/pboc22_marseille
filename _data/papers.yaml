@@ -69,6 +69,12 @@
    year: "2007"
    link: "https://www.pnas.org/doi/10.1073/pnas.0706192104"
     
+ - title: "Single-RNA counting reveals alternative modes of gene expression in yeast"
+   author: "Daniel Zenklusen, et al."
+   journal: "Nat. Struc. Mol. Bio."
+   year: "2008"
+   link: "https://www.nature.com/articles/nsmb.1514"
+
 # Day 3 (May 4th):
 #   - title: "Kinesin Walks Hand-Over-Hand"
 #     author: "Ahmet Yildiz"
