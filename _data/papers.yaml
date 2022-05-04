@@ -81,12 +81,12 @@
    year: "2009"
    link: "https://www.cell.com/fulltext/S0092-8674(09)00912-X"
 
-# Day 3 (May 4th):
-#   - title: "Kinesin Walks Hand-Over-Hand"
-#     author: "Ahmet Yildiz"
-#     journal: "Science"
-#     year: "2004"
-#     link: "https://science.sciencemag.org/content/303/5658/676"
+ Day 3 (May 4th):
+ - title: "Dynamics of the IFT machinery at the ciliary tip"
+   author: "Alexander Chien, et al."
+   journal: "eLife"
+   year: "2017"
+   link: "https://elifesciences.org/articles/28606"
 
 #   - title: "Physical principles underlying the transduction of bilayer deformation forces during mechanosensitive channel gating"
 #     author: "Eduardo Perozo, et al."
