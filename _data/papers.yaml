@@ -9,6 +9,11 @@
    description: "This book elaborates on the skills we will be honing throughout the week as we try to go from the precise calculating with which we are often taught to performing quick calculations largely driven by our intuition to get to rough estimates."
    link: "https://library.oapen.org/handle/20.500.12657/26090"
 
+ - title: "Physical Biology of the Cell"
+   author: "Rob Phillips, Jane Kondev, Julie Theriot, and Hernan G Garcia"
+   description: "This book elaborates on the many of the physical principles and mathematical methods and their application to biological systems."
+   link: "https://www.amazon.com/Physical-Biology-Cell-Rob-Phillips/dp/0815344503?asin=0815344503&revisionId=&format=4&depth=1"
+
  Day 1 (May 2nd):
  - title: "Ivory poaching and the rapid evolution of tusklessness in African elephants"
    author: "Shane C Campbell-Staton, et al. "
@@ -88,12 +93,6 @@
    year: "2017"
    link: "https://elifesciences.org/articles/28606"
 
-#   - title: "Physical principles underlying the transduction of bilayer deformation forces during mechanosensitive channel gating"
-#     author: "Eduardo Perozo, et al."
-#     journal: "Nature Structural & Molecular Biology"
-#     year: "2002"
-#     link: "https://www.nature.com/articles/nsb827"
-
  Day 4 (May 5th):
  - title: "The great ideas of biology"
    author: "Paul Nurse"
@@ -107,11 +106,11 @@
    year: "2020"
    link: "https://aapt.scitation.org/doi/10.1119/10.0000634"
 
-#   - title: "Biology is more theoretical than physics"
-#     author: "Jeremy Gunawardena"
-#     journal: "MBoC"
-#     year: "2017"
-#     link: "https://www.molbiolcell.org/doi/10.1091/mbc.e12-03-0227"
+ - title: "SARS-CoV2 (COVID-19) by the numbers"
+   author: "Yinon M Bar-On, et al."
+   journal: "eLife"
+   year: "2020"
+   link: "http://rpdata.caltech.edu/publications/Bar-On_2020.pdf"
 
 # Day 5 (May 6th):
 #   - title: "Nothing in biology makes sense except in the light of evolution"
