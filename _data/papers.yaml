@@ -94,12 +94,12 @@
 #     year: "2002"
 #     link: "https://www.nature.com/articles/nsb827"
 
-# Day 4 (May 5th):
-#   - title: "Natural Selection and the Complexity of the Gene"
-#     author: "Frank B. Salisbury"
-#     journal: "Nature"
-#     year: "1969"
-#     link: "https://science.sciencemag.org/content/303/5658/676"
+ Day 4 (May 5th):
+ - title: "The great ideas of biology"
+   author: "Paul Nurse"
+   journal: "Clin Med JRCPL"
+   year: "2003"
+   PDF: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4952585/pdf/560.pdf"
 
 #   - title: "Post‐translational modification: nature's escape from genetic imprisonment and the basis for dynamic information encoding"
 #     author: "Sudhakaran Prabakaran, Jeremy Gunawardena"
