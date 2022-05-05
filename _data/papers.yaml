@@ -101,11 +101,11 @@
    year: "2003"
    PDF: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4952585/pdf/560.pdf"
 
-#   - title: "Post‐translational modification: nature's escape from genetic imprisonment and the basis for dynamic information encoding"
-#     author: "Sudhakaran Prabakaran, Jeremy Gunawardena"
-#     journal: "WIREs Systems Biology and Medicine"
-#     year: "2012"
-#     link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/wsbm.1185"
+ - title: "Key biology you should have learned in physics class: using ideal-gas mixtures to understand biomolecular machines"
+   author: "Daniel M Zuckerman"
+   journal: "Am. J. Phys."
+   year: "2020"
+   link: "https://aapt.scitation.org/doi/10.1119/10.0000634"
 
 #   - title: "Biology is more theoretical than physics"
 #     author: "Jeremy Gunawardena"
