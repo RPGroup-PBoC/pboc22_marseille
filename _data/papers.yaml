@@ -125,47 +125,8 @@
    year: "2016"
    link: "https://elifesciences.org/articles/17210"
 
-# Day 2 (September 10th):
-#   - title: "The bioenergetic costs of a gene"
-#     author: "Michael Lynch and Georgi Marinov"
-#     journal: "PNAS"
-#     year: "2015"
-#     PDF: "lynch_marinov2015.pdf"
-
-#   - title: "Sequences and consequences"
-#     author: "Sydney Brenner"
-#     journal: "Philos Trans R Soc Lond B Biol Sci."
-#     year: "2010"
-#     PDF: "brenner2010.pdf"
-
-#   - title: "Molecular 'vitalism'"
-#     author: "Kirschner et al."
-#     journal: "Cell"
-#     year: "2000"
-#     PDF: "kirschner2000.pdf"
-
-# Day 6 (September 15th):
-#   - title: "Point of View: Are theoretical results ‘Results’?"
-#     author: "Raymond Goldstein"
-#     journal: "eLife"
-#     year: "2018"
-#     PDF: "goldstein2018.pdf"
-
-#   - title: "Physical limits to magnetogenetics"
-#     author: "Markus Meister"
-#     journal: "eLife"
-#     year: "2016"
-#     PDF: "meister2016.pdf"
-
-#   - title: "Problems on the back of an envelope"
-#     author: "Anikeeva and Jasanoff"
-#     journal: "eLife"
-#     year: "2016"
-#     PDF: "anikeeva_jasanoff_2016.pdf"
-
-# Day 8 (September 17th):
-#   - title: "A Mathematician's Lament"
-#     author: "Paul Lockhart"
-#     journal: "Bellevue Literary Press"
-#     year: "2009"
-#     PDF: "lockhart2009.pdf"
+ - title: "Are theoretical results 'Results'?"
+   author: "Raymond E Goldstein"
+   journal: "eLife"
+   year: "2018"
+   link: "https://elifesciences.org/articles/40018"
