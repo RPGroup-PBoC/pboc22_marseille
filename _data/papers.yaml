@@ -110,20 +110,20 @@
    author: "Yinon M Bar-On, et al."
    journal: "eLife"
    year: "2020"
-   link: "http://rpdata.caltech.edu/publications/Bar-On_2020.pdf"
+   PDF: "http://rpdata.caltech.edu/publications/Bar-On_2020.pdf"
 
  Day 5 (May 6th):
  - title: "Schr&ouml;dinger's *What is Life?* at 75"
    author: "Rob Phillips"
    journal: "Cell Systems"
    year: "2021"
-   link: "http://rpdata.caltech.edu/publications/Phillips2021a.pdf"
+   PDF: "http://rpdata.caltech.edu/publications/Phillips2021a.pdf"
 
-#   - title: "Are theoretical results results?"
-#     author: "Raymond E Goldstein"
-#     journal: "eLife"
-#     year: "2018"
-#     link: "https://elifesciences.org/articles/40018"
+ - title: "Physical limits to magnetogenetics"
+   author: "Markus Meister"
+   journal: "eLife"
+   year: "2016"
+   link: "https://elifesciences.org/articles/17210"
 
 # Day 2 (September 10th):
 #   - title: "The bioenergetic costs of a gene"
