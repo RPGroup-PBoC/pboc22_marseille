@@ -112,12 +112,12 @@
    year: "2020"
    link: "http://rpdata.caltech.edu/publications/Bar-On_2020.pdf"
 
-# Day 5 (May 6th):
-#   - title: "Nothing in biology makes sense except in the light of evolution"
-#     author: "Theodosius Dobzhansky"
-#     journal: "The American Biology Teacher"
-#     year: "1973"
-#     link: "https://abt.ucpress.edu/content/35/3/125"
+ Day 5 (May 6th):
+ - title: "Schrodinger's *What is Life?* at 75"
+   author: "Rob Phillips"
+   journal: "Cell Systems"
+   year: "2021"
+   link: "http://rpdata.caltech.edu/publications/Phillips2021a.pdf"
 
 #   - title: "Are theoretical results results?"
 #     author: "Raymond E Goldstein"
